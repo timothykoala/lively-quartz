@@ -2,42 +2,38 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Timothy En Haw"
-  given: "Alex"
-  family: "Johnson"
-  alternate: ""
+  display: "Timothy En Haw Chan"
+  given: "Timothy En Haw"
+  family: "Chan"
+  alternate: "陳恩浩"
   pronunciation: ""
-  pronouns: "he/him"
+  pronouns: ""
 postnominals:
   - "PhD"
-  - "MIEEE"
 status:
   icon: "☕️"
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+role: "Scientist - Biotech Editor"
+bio: "Timothy En Haw Chan is a scientist working on understanding epigenetics regulation in cancer and cell signalling, focuses on the interplay of external stimulus to cellular epigenetic regulation. Expertise in information curation, data analysis and synthesise idea. Passionate to summarize discoveries, biotech industry development and communicating science in biomedical field. He lived in Malaysia, Taiwan, Germany and traveled to more than 50 countries. Other than research, he is an amateur writer and science outreach educator."
 affiliations:
   - name: "Meta AI"
     url: "https://ai.meta.com/"
 links:
   - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
+    url: "mailto:timothykoala@gmail.com"
     label: "E-mail Me"
   - icon: "brands/x"
-    url: "https://x.com/example"
+    url: "https://x.com/timothykoala"
   - icon: "brands/github"
-    url: "https://github.com/example"
+    url: "https://github.com/timothykoala"
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
+    url: "https://www.linkedin.com/in/timothychaneh/"
   - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
+    url: "https://scholar.google.com/citations?user=Z_-9Np8AAAAJ"
   - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
+    url: "https://orcid.org/0000-0002-2456-9336"
+  - icon: "brands/bluesky"
+    url: "https://bsky.app/profile/timothykoala.bsky.social"
+    label: "Bluesky"
 interests:
   - "Large Language Models"
   - "Computer Vision"
@@ -105,3 +101,9 @@ awards:
     date: "2022-12-01"
     summary: "Awarded for groundbreaking work on efficient training of large models."
     icon: "hero/trophy"
+weight: null
+ids:
+  orcid: "0000-0002-2456-9336"
+  google_scholar: "Z_-9Np8AAAAJ"
+  scopus: "57195575763"
+  research_gate: "Timothy-Chan-13"
