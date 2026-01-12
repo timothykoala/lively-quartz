@@ -1,18 +1,20 @@
 {
-  "name": "Hugo",
-  "image": "mcr.microsoft.com/devcontainers/hugoblox:0-hugo",
+  "name": "Hugo Universal",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
-    "ghcr.io/devcontainers/features/node:1": {}
+    "ghcr.io/devcontainers/features/hugo:1": {
+        "version": "latest",
+        "variant": "extended"
+    },
+    "ghcr.io/devcontainers/features/node:1": {
+        "version": "lts"
+    }
   },
-  "updateContentCommand": "npm install -g pnpm && pnpm install",
-  "postCreateCommand": "hugo version",
   "customizations": {
     "vscode": {
-      "extensions": [
-        "hugoblox.hugoblox-studio"
-      ]
+      "extensions": ["hugoblox.hugoblox-studio"]
     }
   },
   "forwardPorts": [1313],
-  "remoteUser": "vscode"
+  "postCreateCommand": "npm install -g pnpm && pnpm install"
 }
