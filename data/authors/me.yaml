@@ -97,9 +97,9 @@ experience:
       <br>· As team advisor in year 2016.</br>"
 skills:
   - name: "Molecular Biology"
-    items: []
+    items: 
   - name: "Bioinformatics"
-    items: []
+    items: 
 languages:
   - name: "English"
     level: 4
