@@ -16,12 +16,7 @@ tags:
   - Epigenetics
   - Chromatin
 featured: true
-image: []
-links:
-- icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://x.com/timothykoala
-slides: []
-projects: []
+image: {}
+links: {}
+
 ---
