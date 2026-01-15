@@ -83,7 +83,7 @@ experience:
     org: "Cell press, Elsevier"
     start: "2023-02-01"
     summary: "
-    <br>· As as Peer Reviewer for STAR Protocols (Cell Press), Biochimica et Biophysica Acta (BBA) Reviews on Cancer, Gene Reports, Genes & Diseases and Human Gene. </br>"
+    <br>· As Peer Reviewer for STAR Protocols (Cell Press), Biochimica et Biophysica Acta (BBA) Reviews on Cancer, Gene Reports, Genes & Diseases and Human Gene. </br>"
   - role: "Expert"
     org: "GLG"
     start: "2023-05-01"
@@ -115,7 +115,7 @@ skills:
     items:
       - label: "RNA-seq"
         level: 5
-      - label: "epigenetics"
+      - label: "Epigenetics"
         level: 5
       - label: "CUT&RUN"
         level: 5
