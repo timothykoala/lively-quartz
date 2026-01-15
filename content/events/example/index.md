@@ -1,7 +1,7 @@
 ---
 title: 15th Workshop Epigenetics@DKFZ
 date: 2025-01-13T13:50:32.000Z
-event_name: exmaple
+event_name: talks
 event_url: 
 location: In-Person
 address: {}
