@@ -32,7 +32,7 @@ main:
     identifier: laCyN1yW
     url: courses/
     weight: 70
-  - name: Main
+  - name: Main Page
     identifier: main
     url: https://dreamome.com
     weight: 80
