@@ -1,6 +1,6 @@
 ---
-title: BioMed X Boot Camp: Complex Human Ex Vivo Models of Tissue Inflammation
-summary: "One-sentence takeaway for busy readers (also used in cards and SEO)."
+title: "BioMed X Boot Camp: Complex Human Ex Vivo Models of Tissue Inflammation"
+summary: A week of brainstroming and viewpoint of pharmaceutical mindset on research and developement  
 date: 2023-05-19
 draft: true
 
