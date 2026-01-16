@@ -39,7 +39,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research 🧬'
       subtitle: ''
       text: |-
         Elucidating interplays between external stimulus to epigenetics modulation.
@@ -48,7 +48,7 @@ sections:
 
         My work focus on uncovering the contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in cell signaling regulation via stimulus induce methlytransferase recruitment. While cancers have a high frequency of somatic alterations on chromatin regulators and growth factor signaling pathways, affecting the regulate interactions of epigenetics regulation in cell signaling events. By understanding the mechanism of stimulus induce methlytransferase recruitment, which may lead to potential new therapeutic targets.
 
-        More recently, I am exploring the effects of histone methyltransferase on the tumor immune microenvironment.
+        Recently, I am exploring the effects of histone methyltransferase on the tumor immune microenvironment.
     design:
       columns: '1'
   - block: collection
