@@ -1,6 +1,6 @@
 ---
 title: "EMBL-EBI workshop: Introduction to multiomics data integration and visualisation"
-summary: While travel is still not possible, the workshop is still running online
+summary: While travel is complicate, the bioinformatics workshop is happening online.
 date: 2022-03-25
 draft: false
 
@@ -24,6 +24,6 @@ content_meta:
 ---
 Thanks for the multiomics data intergration and visualization workshop hosted by the European Bioinformatics Institute (EMBL-EBI) at Wellcome Genome Campus in Hinxton, UK.
 
-Althogh we are unable to travel on-site, the online version still worked. Times for single cells analysis and multiomics data intergration without constained by space and time zones.
+Althogh we are unable to travel on-site, the online version still worked. Single cells analysis and multiomics data intergration without constained by space and time zones.
 \
 <!-- Tip: open with the why, then show results, code, and next steps. -->
