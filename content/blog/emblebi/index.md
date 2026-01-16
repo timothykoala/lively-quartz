@@ -1,5 +1,5 @@
 ---
-title: EMBL-EBI workshop: Introduction to multiomics data integration and visualisation
+title: "EMBL-EBI workshop: Introduction to multiomics data integration and visualisation"
 summary: While travel is still not possible, the workshop is still running online
 date: 2022-03-25
 draft: true
