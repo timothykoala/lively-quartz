@@ -1,6 +1,6 @@
 ---
 title: Gordon Research Conference for Histone and DNA Modifications
-summary: "One-sentence takeaway for busy readers (also used in cards and SEO)."
+summary: A week travel to go deep into histone modifications
 date: 2023-06-16
 draft: false
 
@@ -36,6 +36,6 @@ tags:
 content_meta:
   trending: false
 ---
-First time at Rhode Island, USA . While meeting many famous experts in the histone and DNA modification field, the poster presention session was very helpful. Many presenters commemorate their talks to David Allis, one of the most important pioneer in histone modification and gene regulation field, who passed away earlier this year.
+First time at Rhode Island, USA. While meeting many famous experts in the histone and DNA modification field, the poster presention session was very helpful. Many presenters commemorate their talks to David Allis, one of the most important pioneer in histone modification and gene regulation field, who passed away earlier this year.
 
 <!-- Tip: open with the why, then show results, code, and next steps. -->
