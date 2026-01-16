@@ -48,7 +48,7 @@ education:
   - degree: "PhD Biology"
     institution: "Max Planck IMPRS-IEM PhD Program & University of Freiburg, Germany"
     start: "2018-09-01"
-    end: "2025-12-01"
+    end: "2025-12-31"
     summary: "Thesis on contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in TGF-beta signaling. Supervised by Prof Dr Marc Timmers."
     button:
       text: "Read Info"
@@ -57,7 +57,7 @@ education:
   - degree: "MS Biomedical Sciences"
     institution: "Chang Gung University, Taiwan"
     start: "2016-09-01"
-    end: "2018-08-01"
+    end: "2018-08-15"
     summary: "
     <br>· Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology </br>
     <br>· Worked in oral cancer and nasopharyngeal cancer research in Yu-Sun Chang lab. </br>
